@@ -1,7 +1,7 @@
 
-x = 10
-y = 10
+x = "cbc"
+y = "koo"
 
 
 
-print(x/y)
+print(x + y)
